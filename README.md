@@ -1,4 +1,4 @@
-![Screenshot 2023-11-20 210019](https://github.com/Gokkul-M/NearMe/assets/144870543/01217cef-e7e8-40c6-a039-9d8c5d30cb96)# Ex04 Places Around Me
+# Ex04 Places Around Me
 ## Date: 
 
 ## AIM
